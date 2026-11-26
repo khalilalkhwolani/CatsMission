@@ -1,0 +1,9 @@
+Result: Succeeded
+Editor: 2022.1.24f1
+Target: Windows x64 Local Preview
+Path: F:\Development\Projects\CatsMission\Builds\Windows
+Errors: 0
+Warnings: 0
+Bytes: 75716589
+Duration: 00:00:05.8053198
+Security: NOT cleared for distribution; CVE-2025-59489 remediation required.

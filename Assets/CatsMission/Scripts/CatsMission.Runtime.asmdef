@@ -1,0 +1,5 @@
+{
+  "name": "CatsMission.Runtime",
+  "rootNamespace": "CatsMission",
+  "references": ["Unity.ugui"]
+}

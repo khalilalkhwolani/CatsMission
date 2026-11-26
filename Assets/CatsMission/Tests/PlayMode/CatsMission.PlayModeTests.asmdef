@@ -1,0 +1,5 @@
+{
+  "name": "CatsMission.PlayModeTests",
+  "references": ["CatsMission.Runtime", "Unity.ugui"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

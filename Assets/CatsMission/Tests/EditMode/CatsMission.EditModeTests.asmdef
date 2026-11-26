@@ -1,0 +1,6 @@
+{
+  "name": "CatsMission.EditModeTests",
+  "references": ["CatsMission.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

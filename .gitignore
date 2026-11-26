@@ -1,0 +1,56 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+.vs/
+.idea/
+.backups/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+TestResults/
+Artifacts/
+MemoryCaptures/
+.DS_Store
+Thumbs.db
+
+# Local authoring, automation and backup files
+/.codex/
+/.collabignore
+/.vsconfig
+/work/
+
+# Keep only the approved report and presentation in source control
+/Deliverables/*
+!/Deliverables/CatsMission_Submission_Report.docx
+!/Deliverables/CatsMission_Team_Alignment.pptx
+
+# Historical drafts and superseded validation runs
+/Docs/PICNIC-ADVENTURE.md
+/Docs/REQUIREMENTS-POLISH.md
+/Docs/Testing/*
+!/Docs/Testing/report-edit-evidence-01.xml
+!/Docs/Testing/report-images-play-01.xml
+!/Docs/Testing/WindowsBuild.txt
+!/Docs/Testing/Final/
+/Docs/Testing/Final/*
+!/Docs/Testing/Final/screenshots/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+*.pem
