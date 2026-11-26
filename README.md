@@ -2,6 +2,45 @@
 
 A single-player Unity 3D platformer about helping Miso collect lost fish and find the way home through three gardens.
 
+<p align="center">
+  <img src="Docs/Testing/Final/screenshots/menu.png" alt="Cat’s Mission main menu with Miso and the garden house" width="100%">
+</p>
+
+## Explore the gardens
+
+Follow the garden paths, find extra fish and time your jumps. Each area brings a different route on the way home.
+
+<table>
+  <tr>
+    <th width="50%">The Sunny Garden</th>
+    <th width="50%">The Garden Maze</th>
+  </tr>
+  <tr>
+    <td><img src="Docs/Testing/Final/screenshots/level1.png" alt="Miso exploring the Sunny Garden with trees, flowers and fish" width="100%"></td>
+    <td><img src="Docs/Testing/Final/screenshots/maze-route.png" alt="Miso finding a route through the Garden Maze" width="100%"></td>
+  </tr>
+  <tr>
+    <td>Learn the controls and explore an open garden.</td>
+    <td>Find the openings between the hedges and choose a route.</td>
+  </tr>
+  <tr>
+    <th>The Final Garden Challenge</th>
+    <th>Mission Completed</th>
+  </tr>
+  <tr>
+    <td><img src="Docs/Testing/Final/screenshots/gap-approach.png" alt="Miso approaching a jump over water in the final garden" width="100%"></td>
+    <td><img src="Docs/Testing/Final/screenshots/victory.png" alt="You Win screen after Miso reaches home, showing a total score of 22" width="100%"></td>
+  </tr>
+  <tr>
+    <td>Cross the gaps and reach Miso’s home.</td>
+    <td>Finish all three gardens and see your campaign score.</td>
+  </tr>
+</table>
+
+All images above are screenshots from the running Unity game.
+
+## Project files
+
 This repository contains the editable Unity project, the final report, the presentation and test evidence. It does not contain a ready-to-run Mac application.
 
 ## Open the project on Windows or Mac
